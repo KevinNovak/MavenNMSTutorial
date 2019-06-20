@@ -1,0 +1,6 @@
+name: ${project.parent.name}
+main: me.kevinnovak.mavennmstutorial.MavenNMSTutorial
+version: ${project.parent.version}
+author: KevinNovak
+description: ${project.parent.description}
+api-version: 1.13
